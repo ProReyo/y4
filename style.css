@@ -1,0 +1,27 @@
+img{
+ border-style: solid;
+  border-color: #18FFFF;
+  border: 2px;
+  border-radius:80px;
+  width:150px;
+    padding:5px;
+}
+h1{
+  text-shadow: 2px 2px #F8BBD0;
+  font-size: 35px;
+  text-align: center;
+}
+h2{
+  text-shadow: 2px 2px #F8BBD0;
+  font-size: 30px;
+    text-align: center;
+}
+body{
+  text-align: center;
+  background: linear-gradient( #E1BEE7 0%, #90CAF9 100% );
+    background-repeat: no-repeat;
+}
+p{
+  font-size: 27px;
+  color: purple;
+}
